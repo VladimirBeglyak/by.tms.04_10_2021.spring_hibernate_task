@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="by.tms.04_10_2021.spring_hibernate_task:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/by_tms_04_10_2021_spring_hibernate_task_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="by.tms.04_10_2021.spring_hibernate_task/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="by.tms.04_10_2021.spring_hibernate_task" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
